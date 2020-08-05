@@ -4,8 +4,8 @@ Contains all my code samples, implementations, and exercises from the Zero to Ma
 ### Big-O -(https://github.com/sankket/DS-and-Algorithms/tree/master/Big-O)
 ### Hash Tables -(https://github.com/sankket/DS-and-Algorithms/tree/master/Hash%20Tables)
 ### Linked List -(https://github.com/sankket/DS-and-Algorithms/tree/master/Linked%20List)
-### stacks 
-### Queues
+### stacks -(https://github.com/sankket/DS-and-Algorithms/tree/master/Stacks%20%26%20Queues)
+### Queues - (https://github.com/sankket/DS-and-Algorithms/tree/master/Stacks%20%26%20Queues)
 ### Trees
 ### Graphs
 ### Sorting Algorithms
