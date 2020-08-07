@@ -7,6 +7,6 @@ Contains all my code samples, implementations, and exercises from the Zero to Ma
 ### stacks -(https://github.com/sankket/DS-and-Algorithms/tree/master/Stacks%20%26%20Queues)
 ### Queues - (https://github.com/sankket/DS-and-Algorithms/tree/master/Stacks%20%26%20Queues)
 ### Trees - (https://github.com/sankket/DS-and-Algorithms/tree/master/Trees)
-### Graphs
-### Sorting Algorithms
+### Graphs - (https://github.com/sankket/DS-and-Algorithms/tree/master/Graph)
+
 
