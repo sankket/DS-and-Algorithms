@@ -15,3 +15,14 @@ print("The reverse of the string: ", reverse_string(string1))
 string2 = "my name is godbole"
 
 print(string2[::-1])
+
+def recursive_reverse(string):
+    print(string)
+    if len(string) == 0:
+        return string
+    else:
+        return recursive_reverse(string[1:]) + string[0]
+
+
+print(recursive_reverse("All is Well"))
+
