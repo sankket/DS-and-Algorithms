@@ -10,3 +10,15 @@ def factorial(num):
 
 
 print("The Answer by Iteration : ", factorial(5))
+
+# The recursive Method.
+
+
+def rec_fact(num):
+    if num < 1:
+        return 1
+    else:
+        return num * rec_fact(num - 1)
+
+    
+print("The Answer by recursion : ", rec_fact(5))
