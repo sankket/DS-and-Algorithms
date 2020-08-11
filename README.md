@@ -9,5 +9,8 @@ Contains all my code samples, implementations, and exercises from the Zero to Ma
 ### Trees - (https://github.com/sankket/DS-and-Algorithms/tree/master/Trees)
 ### Graphs - (https://github.com/sankket/DS-and-Algorithms/tree/master/Graph)
 ### Recursion - (https://github.com/sankket/DS-and-Algorithms/tree/master/Recursion)
+### Sorting Algorithms
+### Seraching Algorithms
+### Dynamic Programming
 
 
