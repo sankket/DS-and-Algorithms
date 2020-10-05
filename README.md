@@ -1,4 +1,5 @@
-Contains all my code samples, implementations, and exercises from the Zero to Mastery : Master the Coding Interview - Data Structures + Algorithms course by Andrei Neagoie, in Python on Udemy.  
+Contains all my code samples, implementations, and exercises from the Zero to Mastery : Master the Coding Interview - Data Structures + Algorithms course by Andrei Neagoie, in Python on Udemy. 
+You will get overall idea of how data structure works and its implementation.
 Code Improvements are always welcome !
 
 
