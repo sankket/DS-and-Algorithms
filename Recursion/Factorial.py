@@ -1,4 +1,5 @@
 # Finding the factorial of the number.
+# both the recursive and ierative methods are added.
 # The Iterative Method
 
 
