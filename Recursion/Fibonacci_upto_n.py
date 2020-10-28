@@ -1,6 +1,4 @@
 # Fibonacci Series - 1,2,3,5,8,13,....
-
-
 def fibonacci():
     n = int(input("Enter the terms :"))
     num1 = 0
