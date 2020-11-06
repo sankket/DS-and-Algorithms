@@ -1,7 +1,7 @@
 # The Linked list is linear data structure.having two types singly and doubly linked list.
 # First we are creating the node in linked list having data and pointer to the next node i.e node.
 class Node:
-    def __init__(self, data):
+    def __init__(self, data): # init us type of constructor in python.
         self.data = data
         self.next = None
 
