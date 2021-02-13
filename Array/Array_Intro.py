@@ -4,6 +4,7 @@
 #Static arrays have fixed, pre-defined amount of memory that they can use, whereas in dynamic arrays this is flexible
 Array = ['a', 'b', 'c', 'd', 'e']
 first =Array[0]
+middle = Array[2]
 last = Array[4]
 
 Array.insert(2, 'x')
