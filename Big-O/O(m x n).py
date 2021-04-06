@@ -2,7 +2,7 @@ array1 = [1,2,3,4,5,6]
 array2 = ['a','b','c','d','e']
 
 #Here we used nested loops in the fuunction pairs.
-#Hence the Complexity for the code is O(n^2).
+#Hence the Complexity for the code is O(n*m).
 
 def pairs(array1, array2):
     for i in range(len(array1)):
