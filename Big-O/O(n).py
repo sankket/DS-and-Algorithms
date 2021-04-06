@@ -26,3 +26,5 @@ def funchallenge(input):
 funchallenge(nemo)
 funchallenge(everyone)
 funchallenge(large)
+
+#Here in the function the only one loop is used and therefore the complexity for this is O(n)
