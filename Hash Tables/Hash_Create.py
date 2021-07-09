@@ -1,3 +1,4 @@
+#Hash Tables in Python
 class hash_table():
     def __init__(self, size):
         self.size = size
