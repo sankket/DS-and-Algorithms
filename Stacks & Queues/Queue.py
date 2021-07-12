@@ -55,6 +55,7 @@ if __name__ == '__main__':
     my_queue.enqueue("This")
     my_queue.enqueue("is")
     my_queue.enqueue("Queue")
+    my_queue.enqueue("Hurray!")
     my_queue.dequeue()
     my_queue.print_queue()
     
