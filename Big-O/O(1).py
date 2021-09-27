@@ -18,3 +18,4 @@ def findnemo(array):
 findnemo(nemo)
 # This program will demonstrate how much time the code is taking.
 # we are using only one loop hence the average case complexity is O(n) and best case is o(1).
+# it will depend upon the loops whether complexity will get high or low.
