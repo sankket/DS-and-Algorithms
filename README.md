@@ -2,6 +2,9 @@ Contains all my code samples, implementations, and exercises from the Zero to Ma
 You will get overall idea of how data structure works and its implementation.
 Code Improvements and Suggetions are always welcome !
 
+BR
+Sanket
+
 
 # Data Structures and Algorithms
 ### [Array](https://github.com/sankket/DS-and-Algorithms/tree/master/Array)
