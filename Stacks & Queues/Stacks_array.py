@@ -28,7 +28,7 @@ if __name__ == '__main__':
     my_stack = Stack()
     my_stack.push("Milan")
     my_stack.push("Madrid")
-    my_stack.push("Barcalona")
+    my_stack.push("Paris")
     my_stack.push("Manchester")
     my_stack.push("London")
 
