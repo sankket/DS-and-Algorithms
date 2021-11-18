@@ -29,7 +29,7 @@ my_graph.insert_node(2)
 my_graph.insert_node(3)
 my_graph.insert_edge(2, 3)
 my_graph.insert_edge(1, 3)
-my_graph.insert_edge(3, 2)
+my_graph.insert_edge(3, 4)
 my_graph.show_connection()
 
 
